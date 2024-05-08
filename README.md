@@ -1,1 +1,1 @@
-# end-to-end-generativeai-Llama2i-lmedical-chatbot
+# end-to-end-generativeai-Llama2i-medical-chatbot
